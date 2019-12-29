@@ -1,0 +1,29 @@
+{
+  "planets": [
+    {
+      "name": "Thủy Tinh",
+      "radius": 2439,
+      "year": 88
+    },
+    {
+      "name": "Kim Tinh",
+      "radius": 6051,
+      "year": 224
+    },
+    {
+      "name": "Trái Đất",
+      "radius": 6371,
+      "year": 365
+    },
+    {
+      "name": "Hỏa Tinh",
+      "radius": 3396,
+      "year": 687
+    },
+    {
+      "name": "Mộc Tinh",
+      "radius": 69911,
+      "year": 4333
+    }
+  ]
+}
