@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecylerViewFakeDataDemo</string>
+    <string name="radius">Bán kính:</string>
+    <string name="year_dates">Quỹ đạo:</string>
+    <string name="km">km</string>
+    <string name="days">ngày</string>
+</resources>
